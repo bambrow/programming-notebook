@@ -1,3 +1,3 @@
-# Computer Science Notebook
+# Programming Notebook
 
-This repository collects the notes and codes for several computer science topics.
+This repository collects the notes and codes for several programming topics.
